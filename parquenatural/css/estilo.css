@@ -1,0 +1,40 @@
+body{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    width: 50vw;
+
+    padding: 1em;
+    display: flex;
+    border: 0.5em solid grey;
+}
+
+ul{
+
+    display: flex;
+    flex-direction: column;
+    margin-right: 40em;
+
+}
+
+h1{
+    color: green;
+}
+
+span{
+    color: rgb(246, 130, 29);
+}
+
+h3{
+    color: rgb(66, 184, 64);
+}
+
+.cajatexto{
+
+    padding: 1em;
+    display: flex;
+    border: 0.5em solid grey;
+}
